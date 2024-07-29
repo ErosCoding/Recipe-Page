@@ -1,1 +1,12 @@
-Mais 1 Projeto de Fixação em conhecimentos HTML + CSS dessa vez utilizando um design feito no Figma como referencia para o código
+
+Aplicação desenvolvida para estudos durante a Formação Fullstack
+
+🚀 Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+HTML
+CSS
+FIGMA
+
+Projeto
+Projeto para fixação de conhecimentos em HTML + CSS 
