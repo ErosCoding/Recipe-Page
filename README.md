@@ -1,7 +1,7 @@
 
 Aplicação desenvolvida para estudos durante a Formação Fullstack
 
-🚀 Tecnologias
+🚀 Tecnologias <br>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 * HTML
