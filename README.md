@@ -1,12 +1,17 @@
+<p align="center">
+Aplicação desenvolvida durante a Formação Fullstack
+</p>
+<br>
 
-Aplicação desenvolvida para estudos durante a Formação Fullstack
+## 🚀 Tecnologias
 
-🚀 Tecnologias <br>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-* HTML
-* CSS
-* FIGMA
+- HTML
+- CSS
+- FIGMA
 
-Projeto
-Projeto para fixação de conhecimentos em HTML + CSS 
+## Projeto
+
+Nesse projeto foi feita uma página de receita !
+
